@@ -1,5 +1,8 @@
 /**
- * Main5
+ * Fa¸ca uma thread Java que fica aguardando uma sequˆencia
+num´erica de tamanho arbitr´ario digitado por usu´ario para
+realizar uma soma. Use o join().
+Vitor Cimetan de Souza
  */
 import java.util.Scanner;
 
