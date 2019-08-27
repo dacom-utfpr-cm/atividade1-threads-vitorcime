@@ -1,5 +1,9 @@
 /**
- * Main3
+ * . Faca um programa Java que envia interrup¸c˜oes para as
+threads dos exerc´ıcios anteriores. As threads devem fazer o
+tratamento dessas interrup¸c˜oes e realizar uma finaliza¸c˜ao
+limpa.
+Vitor Cimetan de Souza
  */
 public class Main3 extends Thread{
 
